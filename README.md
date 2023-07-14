@@ -100,25 +100,3 @@ Install all dependencies listed in _requirements.txt_ file.
    ```bash
    $ python app.py
    ```
-
----
-
-## Apps using this API
-
-#### [Telegram Channel](https://telegram.dog/inshortschannel) of Inshorts News
-
-## [![Telegram Channel](https://img.shields.io/endpoint?color=neon&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Finshortschannel)](https://telegram.dog/inshortschannel)
-
-### You can fork the repo and deploy on VPS, Heroku or Vercel :)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cyberboysumanjay/Inshorts-News-API/tree/master)
-
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/cyberboysumanjay/Inshorts-News-API/tree/master)
-
----
-
-#### :star: the Repo in case you liked it :)
-
-#### Made with :heart: in India
-
-# © [Sumanjay](https://cyberboysumanjay.github.io)
