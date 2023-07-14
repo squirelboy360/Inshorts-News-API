@@ -1,22 +1,8 @@
 # Inshorts News API [Unofficial]
 
----
-
-This API is capable of fetching news contents from various sources as gathered by Inshorts app.
-
----
-
-### Show some :heart: and :star: the repo to support the project
-
-[![GitHub stars](https://img.shields.io/github/stars/cyberboysumanjay/inshorts-news-api.svg?style=social&label=Star)](https://github.com/cyberboysumanjay/Inshorts-News-API)
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/cyberboysj.svg?style=social)](https://twitter.com/CyberboySj)
-
+---follow the original crator here:
 ![GitHub followers](https://img.shields.io/github/followers/cyberboysumanjay.svg?style=social&label=Follow)
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-orange)](https://t.me/sjprojects)
-
----
 
 ## News Categories
 
